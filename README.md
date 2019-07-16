@@ -4,6 +4,6 @@ Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, IFMG - C
 
 Ciência da Computação
 
-Simulação de um Pronto Socorro em Python para a disciplina Introdução à Simulação.
+Implementação de um sistema que constrói um índice remissivo com diferentes estruturas de dados. Disciplina de 'Algoritmos e Estruturas de Dados II'.
 
-Autores: Bruna Cristina Mendes, Flávia Santos Ribeiro, Luiz Eduardo Pereira
+Autor: Luiz Eduardo Pereira
